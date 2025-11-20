@@ -14,7 +14,7 @@
 Установите пакет файлов и распакуйте. 
 Откройте терминал git bash (Windows) / Terminal (Linux) и перейди в папку проекта:
 ```sh
-cd guess-number
+cd Bulls-and-Cows
 ```
 Выдайте права: 
 ```sh
